@@ -1,0 +1,50 @@
+/* ....................*/
+.center {
+  text-align: center;
+}
+
+/* ....................*/
+body {
+  background-color: rgb(183, 193, 201);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/* ....................*/
+.licenter {
+  list-style-position: inside;
+  display: table;
+  text-align: left;
+  margin: 0 auto;
+}
+
+/* ....................*/
+a {
+  text-decoration: none;
+}
+
+/* ....................*/
+.purple {
+  color: cornsilk;
+  background-color: darkslateblue;
+}
+
+/* div classların */
+.contbody {
+  position: relative;
+  margin-left: 100px;
+  width: 1000px;
+  height: 350px;
+}
+.image {
+  position: absolute;
+  left: 0px;
+  width: 600px;
+  height: 200px;
+}
+
+.contact {
+  position: absolute;
+  right: 30px;
+  width: 300px;
+  height: 200px;
+}
