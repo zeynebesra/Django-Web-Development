@@ -1,0 +1,35 @@
+.box1 {
+  background-color: rgb(189, 189, 189);
+  background-color: #eeeeee;
+}
+
+button {
+  border-radius: 3px;
+}
+
+html {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.td-left {
+  background-color: #7ee5da;
+  width: 35%;
+}
+
+.td-medium {
+  background-color: #70ccc2;
+  width: 15%;
+  font-size: small;
+}
+
+.td-right {
+  background-color: #62b3aa;
+  width: 40%;
+  font-size: small;
+}
+
+table {
+  min-width: 100%;
+  margin: auto;
+}
